@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  background-color: purple;
+  font-size: 50;
+  font-style: oblique;
+}
+.resize {height:50%}
+#circle {border-radius: 50%}
+#MissyLink {font-family: fantasy;}
